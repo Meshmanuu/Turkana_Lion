@@ -3,11 +3,10 @@ const image = document.querySelector('main img');
 
 // Define an array of image sources
 const imageSources = [
-  'img/img.jpeg',
   'img/img1.jpeg',
+  'img/img2.jpeg',
+  'img/img3.jpeg',
   'img/img4.jpeg',
-  'img/img6.jpeg',
-  'img/std.jpg',
   'img/img5.jpeg',
   // Add more image sources as needed
 ];
